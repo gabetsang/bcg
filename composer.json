@@ -1,0 +1,16 @@
+{
+    "name": "gtsang/bcg",
+    "description": "to calculate the number of full days elapsed in between the experiment's start and end dates,  i.e. the first and the last day are considered partial days and never counted.",
+    "authors": [
+        {
+            "name": "Gabriel Tsang",
+            "email": "gabriel.tsang@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "."
+        ]
+    }
+}
